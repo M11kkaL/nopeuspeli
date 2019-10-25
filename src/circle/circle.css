@@ -1,0 +1,14 @@
+.Circle {
+    border-radius: 40px;
+    width: auto;
+    height: 150px;
+    margin: 10px;
+    box-shadow: 0px 0px 3px 2px black;
+}
+.Circle.active {
+    box-shadow: 0px 0px 15px black;
+    background-image: url(Derek.jpg);
+    background-size: 200px 200px;
+    background-position: 60%;
+
+}
